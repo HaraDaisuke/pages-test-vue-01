@@ -6,7 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/portfolio/', // ここに追記する
+  base: '/pages-test-vue-01/', // ここに追記する
   plugins: [
     vue(),
     vueDevTools(),
